@@ -9,7 +9,7 @@ This repository serves as a platform for me to demonstrate my skills, showcase p
 - [About](#about)
 - [Portofolio Projects](#portofolio-projects)
   - Python
-    - [London Bike Sharing]
+    - [London Bike Sharing](https://github.com/MZakyFirdaus/Portofolio-Projects/tree/main/Projects/Bike%20Analysis)
     - [English Premier League Matches 2023/2024]
    
 - [Education](#education)
@@ -18,7 +18,7 @@ This repository serves as a platform for me to demonstrate my skills, showcase p
 ## Portofolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 ### London Bike Sharing
-**Code:** [London Bike Sharing Analysis]
+**Code:** [`londonBike_EDA.ipynb`](https://github.com/MZakyFirdaus/Portofolio-Projects/blob/main/Projects/Bike%20Analysis/londonBike_EDA.ipynb)
 
 **Goal:** Identify patterns and trends in bike rental behavior, such as peak usage times, popular routes, impact of weather and factors influencing rental decisions.
 
